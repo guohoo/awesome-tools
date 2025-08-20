@@ -20,9 +20,13 @@ bottom
 btop
 cockpit
 entr
+netdata
+nethogs
+ntopng
 nvtop
 iftop
 iotop
+vnstat
 
 ## Player
 Kazumi
