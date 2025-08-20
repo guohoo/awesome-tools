@@ -9,6 +9,7 @@ LibChecker
 KDE Connect
 ServerBox
 Shizuku
+termux
 网络百宝箱
 
 ## Fonts
@@ -36,3 +37,4 @@ PotPlayer
 VLC
 
 ## Security Tools
+mitmproxy
